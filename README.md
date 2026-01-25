@@ -10,4 +10,8 @@
 ## Interests
 - ⛳️ 🎿 ✈️
 
+## Skills
+- R
+- Stata
+- Python
 - [Data Science Portfolio](https://github.com/lisaluo88/Luo-Data-Science-Portfolio)
