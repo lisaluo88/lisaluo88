@@ -1,4 +1,4 @@
-!(https://res.cloudinary.com/simpleview/image/upload/v1651858938/clients/indiana/south_bend_notre_dame_e00e744b-10d1-4726-af1c-fc903827dbc7.jpg)
+![Notre Dame Campus Skyline](https://res.cloudinary.com/simpleview/image/upload/v1651858938/clients/indiana/south_bend_notre_dame_e00e744b-10d1-4726-af1c-fc903827dbc7.jpg)
 
 # Hi, I'm Lisa Luo! 👋
 
