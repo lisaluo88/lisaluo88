@@ -12,12 +12,14 @@
 - 📫 How to reach me: zluo3@nd.edu
 
 ## Interests
-- ⛳️ 🎿 ✈️
+- ⛳️ Golfing
+- 🎿 Skiing
+- ✈️ Traveling
 
 ## Skills
-- R
-- Stata
-- Python
+- R (beginner)
+- Stata (intermediate level)
+- Python (beginner)
 - [Data Science Portfolio](https://github.com/lisaluo88/Luo-Data-Science-Portfolio)
 
 ## Let's Connect
