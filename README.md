@@ -19,3 +19,8 @@
 - Stata
 - Python
 - [Data Science Portfolio](https://github.com/lisaluo88/Luo-Data-Science-Portfolio)
+
+## Let's Connect
+<p align="left">
+<a href="https://www.linkedin.com/in/lisa-luo-056b34283/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32" />
