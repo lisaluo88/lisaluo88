@@ -4,6 +4,8 @@
 
 ## I'm a student at the University of Notre Dame studying economics and sociology and data science.
 
+[See Full CV](https://drive.google.com/file/d/1qzYhKJMac8MsFaJqsOqDzSyz7VgFinRR/view?usp=sharing)
+
 ## About Me
 - 🎓 Currently taking Introduction to Data Science
 - 🌱 Learning Python, pandas, and data visualization
