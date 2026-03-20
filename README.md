@@ -29,3 +29,30 @@
 <a href="mailto:zluo3@nd.edu">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="32" />
 
+## Data Science Projects
+
+### Tidy Data Project — 2008 Olympics Medalists
+Applied tidy data principles to clean and reshape a messy dataset using pandas.
+
+Techniques used:
+- pandas melt
+- pivot_table
+- groupby
+- matplotlib
+- seaborn
+
+Repository:
+https://github.com/lisaluo88/Luo-Data-Science-Portfolio
+
+
+### Penguins Streamlit Dashboard
+Built an interactive dashboard using Streamlit to explore penguin data.
+
+Features:
+- Sidebar navigation
+- Global filters
+- Charts and metrics
+- Data preview
+
+Repository:
+https://github.com/lisaluo88/Luo-Data-Science-Portfolio
