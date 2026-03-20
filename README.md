@@ -56,3 +56,10 @@ Features:
 
 Repository:
 https://github.com/lisaluo88/Luo-Data-Science-Portfolio
+
+### These projects demonstrate different parts of my data science skill set.
+
+- The Penguins Streamlit Dashboard shows my ability to build interactive data applications.
+- The Tidy Data Project shows my ability to clean and restructure messy real-world datasets.
+- Together, these projects demonstrate skills in data cleaning, visualization, and analysis,
+  which are essential for real-world data science workflows.
