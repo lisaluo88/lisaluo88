@@ -114,10 +114,10 @@ When I'm not at my laptop, you'll find me on the **golf course ⛳️**, the **s
 
 ## 📊 GitHub Stats
 
-![Lisa's GitHub stats](https://github-readme-stats.vercel.app/api?username=lisaluo88&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lisaluo88&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" alt="Lisa's GitHub stats" />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lisaluo88&layout=compact&theme=default&hide_border=true)
-
----
-
-<p align="center"><i>Thanks for stopping by! 👋</i></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lisaluo88&layout=compact&hide_border=true" alt="Top Languages" />
+</p>
