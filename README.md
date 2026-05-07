@@ -112,12 +112,8 @@ When I'm not at my laptop, you'll find me on the **golf course ⛳️**, the **s
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lisaluo88&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" alt="Lisa's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lisaluo88&layout=compact&hide_border=true" alt="Top Languages" />
+  <img src="https://github-profile-trophy.vercel.app/?username=lisaluo88&theme=flat&no-frame=true&column=7" alt="GitHub Trophies" />
 </p>
